@@ -10,51 +10,12 @@ font-weight:700;
 font-stretch:normal
 }
     
-    #mccann-main-container {
+    #mccann-container {
       width:800px;
     	margin:20px auto;
     	font-family:'BWHaasHead';
     }
-
-	.mccann-header-container {
-		width:800px;
-    }
-    
-    .hr {
-    	width:800px;
-    }
-    
-
-    .mccann-page-title {
-    	font-size: 54px;
-    	text-align: left;
-    	color:black;
-    	margin: 3px 0;
-    	}
-
-    .mccann-intro {
-    	font-size: 17px;
-    	color:#696969;
-    	font-family:'Georgia';
-    	width:750px;
-    	 }
-    	 
-
-    .mccann-container {
-    	width: 150px;
-    	margin: 10px;
-    	padding: 10px;
-    	border: 1px solid #CCC;
-    	height: 150px;
-    	background-color:#F0F4F5;
-    	border-radius: 4px;
-    	box-shadow: 2px 2px 2px #CCC;
-    	text-align:center;
-    	font-size:11px;
-
-    }
-
-    	
+   
     
     .mccann-intro a:link { 
 	font-weight:bold; !important;
