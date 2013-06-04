@@ -18,33 +18,27 @@ font-stretch:normal
    
   .mccann-intro {
     	font-size: 18px;
-    	color:#696969;
+    	color:#000;
     	font-family:'Georgia';
     	width:750px;
     	 }
-  
-
-    .email{
-    font-weight:bold;
-    font-size:18px;
-    color:#FF3300;
-    font-family:'Georgia';
-    }
+ 
     
 h1 {
       font-size: 36px;
+        line-height: 1.1em;
 }
     
 
 h2 {
   font-size: 24px;
-  line-height: 1.1em;
+
    color: #FF00FF;
 }
 
 h2:hover {
   font-size: 24px;
-  line-height: 1.1em;
+
    color: #00FFFF;
 }
 
