@@ -17,7 +17,7 @@ font-stretch:normal
     }
    
   .mccann-intro {
-    	font-size: 17px;
+    	font-size: 18px;
     	color:#696969;
     	font-family:'Georgia';
     	width:750px;
@@ -31,15 +31,19 @@ font-stretch:normal
     font-family:'Georgia';
     }
     
+h1 {
+      font-size: 36px;
+}
+    
 
 h2 {
-  font-size: 48px;
+  font-size: 24px;
   line-height: 1.1em;
    color: #FF00FF;
 }
 
 h2:hover {
-  font-size: 48px;
+  font-size: 24px;
   line-height: 1.1em;
    color: #00FFFF;
 }
